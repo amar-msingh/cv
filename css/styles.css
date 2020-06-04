@@ -1,0 +1,19 @@
+body
+{
+background-color:#99b898 ;
+}
+hr{
+border-style:dotted none none;
+background-color:#99b898;
+border-width: 5px;
+
+width: 4%;
+}
+h3
+{
+  color:#66bfbf;
+}
+img:hover
+{
+  background-color: gold;
+}
